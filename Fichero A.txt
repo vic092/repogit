@@ -1,1 +1,2 @@
-Contenido del fichero A
+Contenido del fichero A modificado de nuevo hola muy buenas tardes
+otra linea
